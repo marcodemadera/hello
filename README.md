@@ -1,6 +1,2 @@
 # hello
-just hello
-
-another hello
-
-one more hello
+ejemplo 1., ejemplo 1.
